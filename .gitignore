@@ -1,0 +1,21 @@
+# Keep the repository focused on the website.
+*
+!/.gitignore
+!/index.html
+!/logo_gomminola.svg
+!/.nojekyll
+!/README.md
+!/.github/
+!/.github/workflows/
+!/.github/workflows/pages.yml
+!/assets/
+/assets/*
+!/assets/store.js
+!/assets/chatbot.js
+!/assets/gomminola/
+/assets/gomminola/*
+!/assets/gomminola/*.webp
+!/assets/relojes/
+/assets/relojes/**
+!/assets/relojes/**/
+!/assets/relojes/**/*.webp
